@@ -53,9 +53,7 @@ plt.show()
 ### Output Waveform:
 
 ![image](https://github.com/user-attachments/assets/16cf682d-b70f-4ea9-a5a7-985081972474)
-
 ![image](https://github.com/user-attachments/assets/02a9f804-6caa-483d-9ef5-4190a7d2c3ca)
-
 ![image](https://github.com/user-attachments/assets/1823d6cf-2ec5-4c5a-b1d6-f73b64f21e15)
 
 ### Result:
